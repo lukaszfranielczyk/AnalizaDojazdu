@@ -1,0 +1,11 @@
+Route_Id,Direction,Start_Of_Route,End_Of_Route,Description
+1,A,Tarnowskie Góry Dworzec,Katowice Piotra Skargi,Przez Gliwice
+2,A,Tarnowskie Góry Dworzec,Katowice Piotra Skargi,Przez Bytom
+3,A,Tarnowskie Góry Dworzec,Katowice Piotra Skargi,Przez Piekary Śląskie
+4,A,Tarnowskie Góry Dworzec,Katowice Piotra Skargi,Przez Siemianowice Śląskie
+5,A,Tarnowskie Góry Dworzec,Katowice Piotra Skargi,Przez Pyrzowice
+1,B,Katowice Piotra Skargi,Tarnowskie Góry Dworzec,Przez Gliwice
+2,B,Katowice Piotra Skargi,Tarnowskie Góry Dworzec,Przez Bytom
+3,B,Katowice Piotra Skargi,Tarnowskie Góry Dworzec,Przez Piekary Śląskie
+4,B,Katowice Piotra Skargi,Tarnowskie Góry Dworzec,Przez Siemianowice Śląskie
+5,B,Katowice Piotra Skargi,Tarnowskie Góry Dworzec,Przez Pyrzowice
